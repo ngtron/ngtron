@@ -1,0 +1,46 @@
+{
+    "name": "angutron",
+    "version": "1.0.0",
+    "description": "Electron Framework made with Angular 5",
+    "author": "Guilherme Fontenele <https://github.com/fontenele>",
+    "homepage": "https://github.com/FonteSolutions/angutron#readme",
+    "license": "MIT",
+    "preferGlobal": true,
+    "engines": {
+        "node": ">=9.0.0"
+    },
+    "readmeFilename": "README.md",
+    "keywords": [
+        "angutron",
+        "desktop",
+        "electron",
+        "bootstrap",
+        "angular",
+        "sqlite3",
+        "angularjs"
+    ],
+    "tags": [
+        "angutron",
+        "desktop",
+        "electron",
+        "bootstrap",
+        "angular",
+        "sqlite3",
+        "angularjs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FonteSolutions/angutron.git"
+    },
+    "bugs": {
+        "url": "https://github.com/FonteSolutions/angutron/issues"
+    },
+    "dependencies": {
+        "async-series": "0.0.1",
+        "chalk": "^2.3.2",
+        "commander": "^2.15.1",
+        "inquirer": "^5.2.0",
+        "lodash": "^4.17.5",
+        "shelljs": "^0.8.1"
+    }
+}
