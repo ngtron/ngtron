@@ -14,7 +14,6 @@ program
     .parse(process.argv);
 
 if (!program.args.length) { program.help(); }
-
 if (program.new) {
     var options = {
         name: program.args[0]
