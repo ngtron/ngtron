@@ -9,6 +9,9 @@
     "engines": {
         "node": ">=9.0.0"
     },
+    "bin": {
+        "ngtron": "./bin/ngtron.js"
+    },
     "readmeFilename": "README.md",
     "keywords": [
         "angutron",
