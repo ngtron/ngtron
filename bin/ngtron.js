@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var wizard = require('../lib/wizard');
 var program = require('commander');
 const chalk = require('chalk');
