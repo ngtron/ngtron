@@ -1,9 +1,9 @@
 {
-    "name": "angutron",
+    "name": "ngtron",
     "version": "1.0.2",
     "description": "Electron Framework made with Angular 5",
     "author": "Guilherme Fontenele <https://github.com/fontenele>",
-    "homepage": "https://github.com/FonteSolutions/angutron#readme",
+    "homepage": "https://github.com/ngtron/ngtron#readme",
     "license": "MIT",
     "preferGlobal": true,
     "engines": {
@@ -33,10 +33,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FonteSolutions/angutron.git"
+        "url": "git+https://github.com/ngtron/ngtron-app.git"
     },
     "bugs": {
-        "url": "https://github.com/FonteSolutions/angutron/issues"
+        "url": "https://github.com/ngtron/ngtron-app/issues"
     },
     "dependencies": {
         "async-series": "0.0.1",

@@ -6,11 +6,11 @@ const chalk = require('chalk');
 const log = console.log;
 
 log();
-log(chalk.blue.bold('  -------- Angutron --------'));
+log(chalk.blue.bold('  -------- NgTron --------'));
 log();
 
 program
-    .description('Angutron')
+    .description('NgTron')
     .option('-n, new', 'Create app')
     .version('1.0.0') // @TODO adjust dynamically
     .parse(process.argv);
